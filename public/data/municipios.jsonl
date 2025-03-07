@@ -1,0 +1,1120 @@
+{"codigo":50001,"municipio":"VILLAVICENCIO"}
+{"codigo":50006,"municipio":"ACACiAS"}
+{"codigo":50110,"municipio":"BARRANCA DE UPIA"}
+{"codigo":50124,"municipio":"CABUYARO"}
+{"codigo":50150,"municipio":"CASTILLA LA NUEVA"}
+{"codigo":50223,"municipio":"SAN LUIS DE CUBARRAL"}
+{"codigo":50226,"municipio":"CUMARAL"}
+{"codigo":50245,"municipio":"EL CALVARIO"}
+{"codigo":50251,"municipio":"EL CASTILLO"}
+{"codigo":50270,"municipio":"EL DORADO"}
+{"codigo":50287,"municipio":"FUENTE DE ORO"}
+{"codigo":50313,"municipio":"GRANADA"}
+{"codigo":50318,"municipio":"GUAMAL"}
+{"codigo":50606,"municipio":"RESTREPO"}
+{"codigo":50325,"municipio":"MAPIRIPaN"}
+{"codigo":50330,"municipio":"MESETAS"}
+{"codigo":50350,"municipio":"LA MACARENA"}
+{"codigo":50370,"municipio":"LA URIBE"}
+{"codigo":50400,"municipio":"LEJANÍAS"}
+{"codigo":91263,"municipio":"EL ENCANTO"}
+{"codigo":91430,"municipio":"LA VICTORIA"}
+{"codigo":5001,"municipio":"MEDELLÍN"}
+{"codigo":5002,"municipio":"ABEJORRAL"}
+{"codigo":5004,"municipio":"ABRIAQUÍ"}
+{"codigo":5021,"municipio":"ALEJANDRÍA"}
+{"codigo":5030,"municipio":"AMAGa"}
+{"codigo":5031,"municipio":"AMALFI"}
+{"codigo":5034,"municipio":"ANDES"}
+{"codigo":5036,"municipio":"ANGELOPOLIS"}
+{"codigo":5038,"municipio":"ANGOSTURA"}
+{"codigo":5040,"municipio":"ANORÍ"}
+{"codigo":5042,"municipio":"SANTAFÉ DE ANTIOQUIA"}
+{"codigo":5044,"municipio":"ANZA"}
+{"codigo":5045,"municipio":"APARTADÓ"}
+{"codigo":5051,"municipio":"ARBOLETES"}
+{"codigo":5055,"municipio":"ARGELIA"}
+{"codigo":5059,"municipio":"ARMENIA"}
+{"codigo":5079,"municipio":"BARBOSA"}
+{"codigo":5086,"municipio":"BELMIRA"}
+{"codigo":5088,"municipio":"BELLO"}
+{"codigo":5091,"municipio":"BETANIA"}
+{"codigo":5093,"municipio":"BETULIA"}
+{"codigo":5101,"municipio":"CIUDAD BOLÍVAR"}
+{"codigo":5107,"municipio":"BRICEÑO"}
+{"codigo":5113,"municipio":"BURITICÁ"}
+{"codigo":5120,"municipio":"CÁCERES"}
+{"codigo":5125,"municipio":"CAICEDO"}
+{"codigo":5129,"municipio":"CALDAS"}
+{"codigo":5134,"municipio":"CAMPAMENTO"}
+{"codigo":5138,"municipio":"CAÑASGORDAS"}
+{"codigo":5142,"municipio":"CARACOLÍ"}
+{"codigo":5145,"municipio":"CARAMANTA"}
+{"codigo":5147,"municipio":"CAREPA"}
+{"codigo":5148,"municipio":"CARMEN DE VIBORAL"}
+{"codigo":5150,"municipio":"CAROLINA"}
+{"codigo":5154,"municipio":"CAUCASIA"}
+{"codigo":5172,"municipio":"CHIGORODÓ"}
+{"codigo":5190,"municipio":"CISNEROS"}
+{"codigo":5197,"municipio":"COCORNÁ"}
+{"codigo":5206,"municipio":"CONCEPCIÓN"}
+{"codigo":5209,"municipio":"CONCORDIA"}
+{"codigo":5212,"municipio":"COPACABANA"}
+{"codigo":5234,"municipio":"DABEIBA"}
+{"codigo":5237,"municipio":"DON MATiAS"}
+{"codigo":5240,"municipio":"EBÉJICO"}
+{"codigo":5250,"municipio":"EL BAGRE"}
+{"codigo":5264,"municipio":"ENTRERRIOS"}
+{"codigo":5266,"municipio":"ENVIGADO"}
+{"codigo":5282,"municipio":"FREDONIA"}
+{"codigo":5284,"municipio":"FRONTINO"}
+{"codigo":5306,"municipio":"GIRALDO"}
+{"codigo":5308,"municipio":"GIRARDOTA"}
+{"codigo":5310,"municipio":"GÓMEZ PLATA"}
+{"codigo":5313,"municipio":"GRANADA"}
+{"codigo":5315,"municipio":"GUADALUPE"}
+{"codigo":5318,"municipio":"GUARNE"}
+{"codigo":5321,"municipio":"GUATAPE"}
+{"codigo":5347,"municipio":"HELICONIA"}
+{"codigo":5353,"municipio":"HISPANIA"}
+{"codigo":5360,"municipio":"ITAGUI"}
+{"codigo":5361,"municipio":"ITUANGO"}
+{"codigo":5364,"municipio":"JARDÍN"}
+{"codigo":5368,"municipio":"JERICÓ"}
+{"codigo":5376,"municipio":"LA CEJA"}
+{"codigo":5380,"municipio":"LA ESTRELLA"}
+{"codigo":5390,"municipio":"LA PINTADA"}
+{"codigo":5400,"municipio":"LA UNIÓN"}
+{"codigo":5411,"municipio":"LIBORINA"}
+{"codigo":5425,"municipio":"MACEO"}
+{"codigo":5440,"municipio":"MARINILLA"}
+{"codigo":5467,"municipio":"MONTEBELLO"}
+{"codigo":5475,"municipio":"MURINDÓ"}
+{"codigo":5480,"municipio":"MUTATA"}
+{"codigo":5483,"municipio":"NARIÑO"}
+{"codigo":5490,"municipio":"NECOCLÍ"}
+{"codigo":5495,"municipio":"NECHÍ"}
+{"codigo":5501,"municipio":"OLAYA"}
+{"codigo":5541,"municipio":"PEÑOL"}
+{"codigo":5543,"municipio":"PEQUE"}
+{"codigo":5576,"municipio":"PUEBLORRICO"}
+{"codigo":5579,"municipio":"PUERTO BERRiO"}
+{"codigo":5585,"municipio":"PUERTO NARE"}
+{"codigo":5591,"municipio":"PUERTO TRIUNFO"}
+{"codigo":5604,"municipio":"REMEDIOS"}
+{"codigo":5607,"municipio":"RETIRO"}
+{"codigo":5615,"municipio":"RIONEGRO"}
+{"codigo":5628,"municipio":"SABANALARGA"}
+{"codigo":5631,"municipio":"SABANETA"}
+{"codigo":5642,"municipio":"SALGAR"}
+{"codigo":5647,"municipio":"SAN ANDRÉS"}
+{"codigo":5649,"municipio":"SAN CARLOS"}
+{"codigo":5652,"municipio":"SAN FRANCISCO"}
+{"codigo":5656,"municipio":"SAN JERÓNIMO"}
+{"codigo":5658,"municipio":"SAN JOSÉ DE LA MONTAÑA"}
+{"codigo":5659,"municipio":"SAN JUAN DE URABA"}
+{"codigo":5660,"municipio":"SAN LUIS"}
+{"codigo":5664,"municipio":"SAN PEDRO"}
+{"codigo":5665,"municipio":"SAN PEDRO DE URABA"}
+{"codigo":5667,"municipio":"SAN RAFAEL"}
+{"codigo":5670,"municipio":"SAN ROQUE"}
+{"codigo":5674,"municipio":"SAN VICENTE"}
+{"codigo":5679,"municipio":"SANTA BaRBARA"}
+{"codigo":5686,"municipio":"SANTA ROSA de osos"}
+{"codigo":5690,"municipio":"SANTO DOMINGO"}
+{"codigo":5697,"municipio":"SANTUARIO"}
+{"codigo":5736,"municipio":"SEGOVIA"}
+{"codigo":5756,"municipio":"SONSON"}
+{"codigo":5761,"municipio":"SOPETRaN"}
+{"codigo":5789,"municipio":"TÁMESIS"}
+{"codigo":5790,"municipio":"TARAZÁ"}
+{"codigo":5792,"municipio":"TARSO"}
+{"codigo":5809,"municipio":"TITIRIBÍ"}
+{"codigo":5819,"municipio":"TOLEDO"}
+{"codigo":5837,"municipio":"TURBO"}
+{"codigo":5842,"municipio":"URAMITA"}
+{"codigo":5847,"municipio":"URRAO"}
+{"codigo":5854,"municipio":"VALDIVIA"}
+{"codigo":5856,"municipio":"VALPARAISO"}
+{"codigo":5858,"municipio":"VEGACHÍ"}
+{"codigo":5861,"municipio":"VENECIA"}
+{"codigo":5873,"municipio":"VIGÍA DEL FUERTE"}
+{"codigo":5885,"municipio":"YALÍ"}
+{"codigo":5887,"municipio":"YARUMAL"}
+{"codigo":5890,"municipio":"YOLOMBÓ"}
+{"codigo":5893,"municipio":"YONDÓ"}
+{"codigo":5895,"municipio":"ZARAGOZA"}
+{"codigo":8001,"municipio":"BARRANQUILLA"}
+{"codigo":8078,"municipio":"BARANOA"}
+{"codigo":8137,"municipio":"CAMPO DE LA CRUZ"}
+{"codigo":8141,"municipio":"CANDELARIA"}
+{"codigo":8296,"municipio":"GALAPA"}
+{"codigo":8372,"municipio":"JUAN DE ACOSTA"}
+{"codigo":8421,"municipio":"LURUACO"}
+{"codigo":8433,"municipio":"MALAMBO"}
+{"codigo":8436,"municipio":"MANATi"}
+{"codigo":8520,"municipio":"PALMAR DE VARELA"}
+{"codigo":8549,"municipio":"PIOJÓ"}
+{"codigo":8558,"municipio":"POLONUEVO"}
+{"codigo":8560,"municipio":"PONEDERA"}
+{"codigo":8573,"municipio":"PUERTO COLOMBIA"}
+{"codigo":8606,"municipio":"REPELON"}
+{"codigo":8634,"municipio":"Sabanagrande"}
+{"codigo":8638,"municipio":"SABANALARGA"}
+{"codigo":8675,"municipio":"SANTA LUCiA"}
+{"codigo":8685,"municipio":"Santo Tomas"}
+{"codigo":8758,"municipio":"SOLEDAD"}
+{"codigo":8770,"municipio":"SUAN"}
+{"codigo":8832,"municipio":"TUBARA"}
+{"codigo":8849,"municipio":"USIACURi"}
+{"codigo":11001,"municipio":"BOGOTA D.C."}
+{"codigo":13001,"municipio":"CARTAGENA"}
+{"codigo":13006,"municipio":"ACHÍ"}
+{"codigo":13030,"municipio":"ALTOS DEL ROSARIO"}
+{"codigo":13042,"municipio":"ARENAL"}
+{"codigo":13052,"municipio":"ARJONA"}
+{"codigo":13062,"municipio":"ARROYOHONDO"}
+{"codigo":13074,"municipio":"BARRANCO DE LOBA"}
+{"codigo":13140,"municipio":"CALAMAR"}
+{"codigo":13160,"municipio":"CANTAGALLO"}
+{"codigo":13188,"municipio":"CICUCO"}
+{"codigo":13212,"municipio":"CÓRDOBA"}
+{"codigo":13222,"municipio":"CLEMENCIA"}
+{"codigo":13244,"municipio":"CARMEN DE BOLÍVAR"}
+{"codigo":13248,"municipio":"EL GUAMO"}
+{"codigo":13268,"municipio":"EL PEÑON"}
+{"codigo":13300,"municipio":"HATILLO DE LOBA"}
+{"codigo":13430,"municipio":"MAGANGUÉ"}
+{"codigo":13433,"municipio":"MAHATES"}
+{"codigo":13440,"municipio":"MARGARITA"}
+{"codigo":13442,"municipio":"MARÍA LA BAJA"}
+{"codigo":13458,"municipio":"MONTECRISTO"}
+{"codigo":13468,"municipio":"MOMPÓS"}
+{"codigo":13473,"municipio":"MORALES"}
+{"codigo":13549,"municipio":"PINILLOS"}
+{"codigo":13580,"municipio":"REGIDOR"}
+{"codigo":13600,"municipio":"RÍO VIEJO"}
+{"codigo":13620,"municipio":"SAN CRISTOBAL"}
+{"codigo":13647,"municipio":"SAN ESTANISLAO"}
+{"codigo":13650,"municipio":"SAN FERNANDO"}
+{"codigo":13654,"municipio":"SAN JACINTO"}
+{"codigo":13655,"municipio":"SAN JACINTO DEL CAUCA"}
+{"codigo":13657,"municipio":"SAN JUAN NEPOMUCENO"}
+{"codigo":13667,"municipio":"SAN MARTIN DE LOBA"}
+{"codigo":13670,"municipio":"SAN PABLO"}
+{"codigo":13673,"municipio":"SANTA CATALINA"}
+{"codigo":13683,"municipio":"SANTA ROSA DE LIMA"}
+{"codigo":13688,"municipio":"SANTA ROSA DEL SUR"}
+{"codigo":13744,"municipio":"SIMITÍ"}
+{"codigo":13760,"municipio":"SOPLAVIENTO"}
+{"codigo":13780,"municipio":"TALAIGUA NUEVO"}
+{"codigo":13810,"municipio":"TIQUISIO"}
+{"codigo":13836,"municipio":"TURBACO"}
+{"codigo":13838,"municipio":"TURBANA"}
+{"codigo":13873,"municipio":"VILLANUEVA"}
+{"codigo":13894,"municipio":"ZAMBRANO"}
+{"codigo":15001,"municipio":"TUNJA"}
+{"codigo":15022,"municipio":"ALMEIDA"}
+{"codigo":15047,"municipio":"AQUITANIA"}
+{"codigo":15051,"municipio":"ARCABUCO"}
+{"codigo":15087,"municipio":"BELÉN"}
+{"codigo":15090,"municipio":"BERBEO"}
+{"codigo":15092,"municipio":"BETÉITIVA"}
+{"codigo":15097,"municipio":"BOAVITA"}
+{"codigo":15104,"municipio":"BOYACÁ"}
+{"codigo":15106,"municipio":"BRICEÑO"}
+{"codigo":15109,"municipio":"BUENAVISTA"}
+{"codigo":15114,"municipio":"BUSBANZÁ"}
+{"codigo":15131,"municipio":"CALDAS"}
+{"codigo":15135,"municipio":"CAMPOHERMOSO"}
+{"codigo":15162,"municipio":"CERINZA"}
+{"codigo":15172,"municipio":"CHINAVITA"}
+{"codigo":15176,"municipio":"CHIQUINQUIRÁ"}
+{"codigo":15180,"municipio":"CHISCAS"}
+{"codigo":15183,"municipio":"CHITA"}
+{"codigo":15185,"municipio":"CHITARAQUE"}
+{"codigo":15187,"municipio":"CHIVATÁ"}
+{"codigo":15189,"municipio":"CIÉNEGA"}
+{"codigo":15204,"municipio":"CÓMBITA"}
+{"codigo":15212,"municipio":"COPER"}
+{"codigo":15215,"municipio":"CORRALES"}
+{"codigo":15218,"municipio":"COVARACHÍA"}
+{"codigo":15223,"municipio":"CUBARÁ"}
+{"codigo":15224,"municipio":"CUCAITA"}
+{"codigo":15226,"municipio":"CUÍTIVA"}
+{"codigo":15232,"municipio":"CHÍQUIZA"}
+{"codigo":15236,"municipio":"CHIVOR"}
+{"codigo":15238,"municipio":"DUITAMA"}
+{"codigo":15244,"municipio":"EL COCUY"}
+{"codigo":15248,"municipio":"EL ESPINO"}
+{"codigo":15272,"municipio":"FIRAVITOBA"}
+{"codigo":15276,"municipio":"FLORESTA"}
+{"codigo":15293,"municipio":"GACHANTIVÁ"}
+{"codigo":15296,"municipio":"GAMEZA"}
+{"codigo":15299,"municipio":"GARAGOA"}
+{"codigo":15317,"municipio":"GUACAMAYAS"}
+{"codigo":15322,"municipio":"GUATEQUE"}
+{"codigo":15325,"municipio":"GUAYATÁ"}
+{"codigo":15332,"municipio":"GÜICÁN"}
+{"codigo":15362,"municipio":"IZA"}
+{"codigo":15367,"municipio":"JENESANO"}
+{"codigo":15368,"municipio":"JERICÓ"}
+{"codigo":15377,"municipio":"LABRANZAGRANDE"}
+{"codigo":15380,"municipio":"LA CAPILLA"}
+{"codigo":15401,"municipio":"LA VICTORIA"}
+{"codigo":15403,"municipio":"LA UVITA"}
+{"codigo":15407,"municipio":"VILLA DE LEYVA"}
+{"codigo":15425,"municipio":"MACANAL"}
+{"codigo":15442,"municipio":"MARIPÍ"}
+{"codigo":15455,"municipio":"MIRAFLORES"}
+{"codigo":15464,"municipio":"MONGUA"}
+{"codigo":15466,"municipio":"MONGUÍ"}
+{"codigo":15469,"municipio":"MONIQUIRÁ"}
+{"codigo":15476,"municipio":"MOTAVITA"}
+{"codigo":15480,"municipio":"MUZO"}
+{"codigo":15491,"municipio":"NOBSA"}
+{"codigo":15494,"municipio":"NUEVO COLÓN"}
+{"codigo":15500,"municipio":"OICATÁ"}
+{"codigo":15507,"municipio":"OTANCHE"}
+{"codigo":15511,"municipio":"PACHAVITA"}
+{"codigo":15514,"municipio":"PÁEZ"}
+{"codigo":15516,"municipio":"PAIPA"}
+{"codigo":15518,"municipio":"PAJARITO"}
+{"codigo":15522,"municipio":"PANQUEBA"}
+{"codigo":15531,"municipio":"PAUNA"}
+{"codigo":15533,"municipio":"PAYA"}
+{"codigo":15537,"municipio":"PAZ DE RÍO"}
+{"codigo":15542,"municipio":"PESCA"}
+{"codigo":15550,"municipio":"PISBA"}
+{"codigo":15572,"municipio":"PUERTO BOYACa"}
+{"codigo":15580,"municipio":"QUÍPAMA"}
+{"codigo":15599,"municipio":"RAMIRIQUÍ"}
+{"codigo":15600,"municipio":"RÁQUIRA"}
+{"codigo":15621,"municipio":"RONDÓN"}
+{"codigo":15632,"municipio":"SABOYÁ"}
+{"codigo":15638,"municipio":"SÁCHICA"}
+{"codigo":15646,"municipio":"SAMACÁ"}
+{"codigo":15660,"municipio":"SAN EDUARDO"}
+{"codigo":15664,"municipio":"SAN JOSÉ DE PARE"}
+{"codigo":15667,"municipio":"SAN LUIS DE GACENO"}
+{"codigo":15673,"municipio":"SAN MATEO"}
+{"codigo":15676,"municipio":"SAN MIGUEL DE SEMA"}
+{"codigo":15681,"municipio":"SAN PABLO BORBUR"}
+{"codigo":15686,"municipio":"SANTANA"}
+{"codigo":15690,"municipio":"SANTA MARÍA"}
+{"codigo":15693,"municipio":"SAN ROSA VITERBO"}
+{"codigo":15696,"municipio":"SANTA SOFÍA"}
+{"codigo":15720,"municipio":"SATIVANORTE"}
+{"codigo":15723,"municipio":"SATIVASUR"}
+{"codigo":15740,"municipio":"SIACHOQUE"}
+{"codigo":15753,"municipio":"SOATÁ"}
+{"codigo":15755,"municipio":"SOCOTÁ"}
+{"codigo":15757,"municipio":"SOCHA"}
+{"codigo":15759,"municipio":"SOGAMOSO"}
+{"codigo":15761,"municipio":"SOMONDOCO"}
+{"codigo":15762,"municipio":"SORA"}
+{"codigo":15763,"municipio":"SOTAQUIRÁ"}
+{"codigo":15764,"municipio":"SORACÁ"}
+{"codigo":15774,"municipio":"SUSACÓN"}
+{"codigo":15776,"municipio":"SUTAMARCHÁN"}
+{"codigo":15778,"municipio":"SUTATENZA"}
+{"codigo":15790,"municipio":"TASCO"}
+{"codigo":15798,"municipio":"TENZA"}
+{"codigo":15804,"municipio":"TIBANÁ"}
+{"codigo":15806,"municipio":"TIBASOSA"}
+{"codigo":15808,"municipio":"TINJACÁ"}
+{"codigo":15810,"municipio":"TIPACOQUE"}
+{"codigo":15814,"municipio":"TOCA"}
+{"codigo":15816,"municipio":"TOGÜÍ"}
+{"codigo":15820,"municipio":"TÓPAGA"}
+{"codigo":15822,"municipio":"TOTA"}
+{"codigo":15832,"municipio":"TUNUNGUÁ"}
+{"codigo":15835,"municipio":"TURMEQUÉ"}
+{"codigo":15837,"municipio":"TUTA"}
+{"codigo":15839,"municipio":"TUTAZÁ"}
+{"codigo":15842,"municipio":"UMBITA"}
+{"codigo":15861,"municipio":"VENTAQUEMADA"}
+{"codigo":15879,"municipio":"VIRACACHÁ"}
+{"codigo":15897,"municipio":"ZETAQUIRA"}
+{"codigo":17001,"municipio":"MANIZALES"}
+{"codigo":17013,"municipio":"AGUADAS"}
+{"codigo":17042,"municipio":"ANSERMA"}
+{"codigo":17050,"municipio":"ARANZAZU"}
+{"codigo":17088,"municipio":"BELALCÁZAR"}
+{"codigo":17174,"municipio":"CHINCHINa"}
+{"codigo":17272,"municipio":"FILADELFIA"}
+{"codigo":17380,"municipio":"LA DORADA"}
+{"codigo":17388,"municipio":"LA MERCED"}
+{"codigo":17433,"municipio":"MANZANARES"}
+{"codigo":17442,"municipio":"MARMATO"}
+{"codigo":17444,"municipio":"MARQUETALIA"}
+{"codigo":17446,"municipio":"MARULANDA"}
+{"codigo":17486,"municipio":"NEIRA"}
+{"codigo":17495,"municipio":"NORCASIA"}
+{"codigo":17513,"municipio":"PÁCORA"}
+{"codigo":17524,"municipio":"PALESTINA"}
+{"codigo":17541,"municipio":"PENSILVANIA"}
+{"codigo":17614,"municipio":"RIOSUCIO"}
+{"codigo":17616,"municipio":"RISARALDA"}
+{"codigo":17653,"municipio":"SALAMINA"}
+{"codigo":17662,"municipio":"SAMANÁ"}
+{"codigo":17665,"municipio":"SAN JOSÉ"}
+{"codigo":17777,"municipio":"SUPÍA"}
+{"codigo":17867,"municipio":"VICTORIA"}
+{"codigo":17873,"municipio":"VILLAMARiA"}
+{"codigo":17877,"municipio":"VITERBO"}
+{"codigo":18001,"municipio":"FLORENCIA"}
+{"codigo":18029,"municipio":"ALBANIA"}
+{"codigo":18094,"municipio":"BELÉN DE LOS ANDAQUIES"}
+{"codigo":18150,"municipio":"CARTAGENA DEL CHAIRÁ"}
+{"codigo":18205,"municipio":"CURRILLO"}
+{"codigo":18247,"municipio":"EL DONCELLO"}
+{"codigo":18256,"municipio":"EL PAUJIL"}
+{"codigo":18410,"municipio":"LA MONTAÑITA"}
+{"codigo":18460,"municipio":"MILaN"}
+{"codigo":18479,"municipio":"MORELIA"}
+{"codigo":18592,"municipio":"PUERTO RICO"}
+{"codigo":18610,"municipio":"SAN JOSE DEL FRAGUA"}
+{"codigo":18753,"municipio":"SAN VICENTE DEL CAGUÁN"}
+{"codigo":18756,"municipio":"SOLANO"}
+{"codigo":18785,"municipio":"SOLITA"}
+{"codigo":18860,"municipio":"VALPARAISO"}
+{"codigo":19001,"municipio":"POPAYÁN"}
+{"codigo":19022,"municipio":"ALMAGUER"}
+{"codigo":19050,"municipio":"ARGELIA"}
+{"codigo":19075,"municipio":"BALBOA"}
+{"codigo":19100,"municipio":"BOLÍVAR"}
+{"codigo":19110,"municipio":"BUENOS AIRES"}
+{"codigo":19130,"municipio":"CAJIBÍO"}
+{"codigo":19137,"municipio":"CALDONO"}
+{"codigo":19142,"municipio":"CALOTO"}
+{"codigo":19212,"municipio":"CORINTO"}
+{"codigo":19256,"municipio":"EL TAMBO"}
+{"codigo":19290,"municipio":"FLORENCIA"}
+{"codigo":19318,"municipio":"GUAPI"}
+{"codigo":19355,"municipio":"INZÁ"}
+{"codigo":19364,"municipio":"JAMBALO"}
+{"codigo":19392,"municipio":"LA SIERRA"}
+{"codigo":19397,"municipio":"LA VEGA"}
+{"codigo":19418,"municipio":"LOPEZ"}
+{"codigo":19450,"municipio":"MERCADERES"}
+{"codigo":19455,"municipio":"MIRANDA"}
+{"codigo":19473,"municipio":"MORALES"}
+{"codigo":19513,"municipio":"PADILLA"}
+{"codigo":19517,"municipio":"PAEZ"}
+{"codigo":19532,"municipio":"PATIA"}
+{"codigo":19533,"municipio":"PIAMONTE"}
+{"codigo":19548,"municipio":"PIENDAMO"}
+{"codigo":19573,"municipio":"PUERTO TEJADA"}
+{"codigo":19585,"municipio":"PURACE"}
+{"codigo":19622,"municipio":"ROSAS"}
+{"codigo":19693,"municipio":"SAN SEBASTIAN"}
+{"codigo":19698,"municipio":"SANTANDER DE QUILICHAO"}
+{"codigo":19701,"municipio":"SANTA ROSA"}
+{"codigo":19743,"municipio":"Silvia"}
+{"codigo":19760,"municipio":"SOTARA"}
+{"codigo":19780,"municipio":"SUAREZ"}
+{"codigo":19785,"municipio":"SUCRE"}
+{"codigo":19807,"municipio":"TIMBIO"}
+{"codigo":19809,"municipio":"TIMBIQUI"}
+{"codigo":19821,"municipio":"TORIBIO"}
+{"codigo":19824,"municipio":"TOTORO"}
+{"codigo":19845,"municipio":"VILLA RICA"}
+{"codigo":20001,"municipio":"VALLEDUPAR"}
+{"codigo":20011,"municipio":"AGUACHICA"}
+{"codigo":20013,"municipio":"AGUSTÍN CODAZZI"}
+{"codigo":20032,"municipio":"ASTREA"}
+{"codigo":20045,"municipio":"BECERRIL"}
+{"codigo":20060,"municipio":"BOSCONIA"}
+{"codigo":20175,"municipio":"CHIMICHAGUA"}
+{"codigo":20178,"municipio":"CHIRIGUANA"}
+{"codigo":20228,"municipio":"CURUMANÍ"}
+{"codigo":20238,"municipio":"EL COPEY"}
+{"codigo":20250,"municipio":"EL PASO"}
+{"codigo":20295,"municipio":"GAMARRA"}
+{"codigo":20310,"municipio":"GONZÁLEZ"}
+{"codigo":20383,"municipio":"LA GLORIA"}
+{"codigo":20400,"municipio":"LA JAGUA DE IBIRICO"}
+{"codigo":20443,"municipio":"MANAURE"}
+{"codigo":20517,"municipio":"PAILITAS"}
+{"codigo":20550,"municipio":"PELAYA"}
+{"codigo":20570,"municipio":"PUEBLO BELLO"}
+{"codigo":20614,"municipio":"RÍO DE ORO"}
+{"codigo":20621,"municipio":"LA PAZ"}
+{"codigo":20710,"municipio":"SAN ALBERTO"}
+{"codigo":20750,"municipio":"SAN DIEGO"}
+{"codigo":20770,"municipio":"SAN MARTÍN"}
+{"codigo":20787,"municipio":"TAMALAMEQUE"}
+{"codigo":23001,"municipio":"MONTERÍA"}
+{"codigo":23068,"municipio":"AYAPEL"}
+{"codigo":23079,"municipio":"BUENAVISTA"}
+{"codigo":23090,"municipio":"CANALETE"}
+{"codigo":23162,"municipio":"CERETÉ"}
+{"codigo":23168,"municipio":"CHIMÁ"}
+{"codigo":23182,"municipio":"CHINÚ"}
+{"codigo":23189,"municipio":"CIÉNAGA DE ORO"}
+{"codigo":23300,"municipio":"COTORRA"}
+{"codigo":23350,"municipio":"LA APARTADA"}
+{"codigo":23417,"municipio":"LORICA"}
+{"codigo":23419,"municipio":"LOS CÓRDOBAS"}
+{"codigo":23464,"municipio":"MOMIL"}
+{"codigo":23466,"municipio":"MONTELÍBANO"}
+{"codigo":23500,"municipio":"MOÑITOS"}
+{"codigo":23555,"municipio":"PLANETA RICA"}
+{"codigo":23570,"municipio":"PUEBLO NUEVO"}
+{"codigo":23574,"municipio":"PUERTO ESCONDIDO"}
+{"codigo":23580,"municipio":"PUERTO LIBERTADOR"}
+{"codigo":23586,"municipio":"PURÍSIMA"}
+{"codigo":23660,"municipio":"SAHAGÚN"}
+{"codigo":23670,"municipio":"SAN ANDRÉS SOTAVENTO"}
+{"codigo":23672,"municipio":"SAN ANTERO"}
+{"codigo":23675,"municipio":"SAN BERNARDO DEL VIENTO"}
+{"codigo":23678,"municipio":"SAN CARLOS"}
+{"codigo":23686,"municipio":"SAN PELAYO"}
+{"codigo":23807,"municipio":"TIERRALTA"}
+{"codigo":23855,"municipio":"VALENCIA"}
+{"codigo":25001,"municipio":"AGUA DE DIOS"}
+{"codigo":25019,"municipio":"ALBÁN"}
+{"codigo":25035,"municipio":"ANAPOIMA"}
+{"codigo":25040,"municipio":"ANOLAIMA"}
+{"codigo":25053,"municipio":"ARBELÁEZ"}
+{"codigo":25086,"municipio":"BELTRÁN"}
+{"codigo":25095,"municipio":"BITUIMA"}
+{"codigo":25099,"municipio":"BOJACÁ"}
+{"codigo":25120,"municipio":"CABRERA"}
+{"codigo":25123,"municipio":"CACHIPAY"}
+{"codigo":25126,"municipio":"CAJICÁ"}
+{"codigo":25148,"municipio":"CAPARRAPÍ"}
+{"codigo":25151,"municipio":"CAQUEZA"}
+{"codigo":25154,"municipio":"CARMEN DE CARUPA"}
+{"codigo":25168,"municipio":"CHAGUANÍ"}
+{"codigo":25175,"municipio":"CHÍA"}
+{"codigo":25178,"municipio":"CHIPAQUE"}
+{"codigo":25181,"municipio":"CHOACHÍ"}
+{"codigo":25183,"municipio":"CHOCONTÁ"}
+{"codigo":25200,"municipio":"COGUA"}
+{"codigo":25214,"municipio":"COTA"}
+{"codigo":25224,"municipio":"CUCUNUBÁ"}
+{"codigo":25245,"municipio":"EL COLEGIO"}
+{"codigo":25258,"municipio":"EL PEÑÓN"}
+{"codigo":25260,"municipio":"EL ROSAL"}
+{"codigo":25269,"municipio":"FACATATIVÁ"}
+{"codigo":25279,"municipio":"FOMEQUE"}
+{"codigo":25281,"municipio":"FOSCA"}
+{"codigo":25286,"municipio":"FUNZA"}
+{"codigo":25288,"municipio":"FÚQUENE"}
+{"codigo":25290,"municipio":"FUSAGASUGÁ"}
+{"codigo":25293,"municipio":"GACHALA"}
+{"codigo":25295,"municipio":"GACHANCIPÁ"}
+{"codigo":25297,"municipio":"GACHETA"}
+{"codigo":25299,"municipio":"GAMA"}
+{"codigo":25307,"municipio":"GIRARDOT"}
+{"codigo":25312,"municipio":"GRANADA"}
+{"codigo":25317,"municipio":"GUACHETÁ"}
+{"codigo":25320,"municipio":"GUADUAS"}
+{"codigo":25322,"municipio":"GUASCA"}
+{"codigo":25324,"municipio":"GUATAQUÍ"}
+{"codigo":25326,"municipio":"GUATAVITA"}
+{"codigo":25328,"municipio":"GUAYABAL DE SIQUIMA"}
+{"codigo":25335,"municipio":"GUAYABETAL"}
+{"codigo":25339,"municipio":"GUTIÉRREZ"}
+{"codigo":25368,"municipio":"JERUSALÉN"}
+{"codigo":25372,"municipio":"JUNÍN"}
+{"codigo":25377,"municipio":"LA CALERA"}
+{"codigo":25386,"municipio":"LA MESA"}
+{"codigo":25394,"municipio":"LA PALMA"}
+{"codigo":25398,"municipio":"LA PEÑA"}
+{"codigo":25402,"municipio":"LA VEGA"}
+{"codigo":25407,"municipio":"LENGUAZAQUE"}
+{"codigo":25426,"municipio":"MACHETA"}
+{"codigo":25430,"municipio":"MADRID"}
+{"codigo":25436,"municipio":"MANTA"}
+{"codigo":25438,"municipio":"MEDINA"}
+{"codigo":25473,"municipio":"MOSQUERA"}
+{"codigo":25483,"municipio":"NARIÑO"}
+{"codigo":25486,"municipio":"NEMOCoN"}
+{"codigo":25488,"municipio":"NILO"}
+{"codigo":25489,"municipio":"NIMAIMA"}
+{"codigo":25491,"municipio":"NOCAIMA"}
+{"codigo":25506,"municipio":"VENECIA"}
+{"codigo":25513,"municipio":"PACHO"}
+{"codigo":25518,"municipio":"PAIME"}
+{"codigo":25524,"municipio":"PANDI"}
+{"codigo":25530,"municipio":"PARATEBUENO"}
+{"codigo":25535,"municipio":"PASCA"}
+{"codigo":25572,"municipio":"PUERTO SALGAR"}
+{"codigo":25580,"municipio":"PULI"}
+{"codigo":25592,"municipio":"QUEBRADANEGRA"}
+{"codigo":25594,"municipio":"QUETAME"}
+{"codigo":25596,"municipio":"QUIPILE"}
+{"codigo":25599,"municipio":"APULO"}
+{"codigo":25612,"municipio":"RICAURTE"}
+{"codigo":25645,"municipio":"SAN ANTONIO DE TEQUENDAMA"}
+{"codigo":25649,"municipio":"SAN BERNARDO"}
+{"codigo":25653,"municipio":"SAN CAYETANO"}
+{"codigo":25658,"municipio":"SAN FRANCISCO"}
+{"codigo":25662,"municipio":"SAN JUAN DE RÍO SECO"}
+{"codigo":25718,"municipio":"SASAIMA"}
+{"codigo":25736,"municipio":"SESQUILÉ"}
+{"codigo":25740,"municipio":"SIBATÉ"}
+{"codigo":25743,"municipio":"SILVANIA"}
+{"codigo":25745,"municipio":"SIMIJACA"}
+{"codigo":25754,"municipio":"SOACHA"}
+{"codigo":25758,"municipio":"SOPÓ"}
+{"codigo":25769,"municipio":"SUBACHOQUE"}
+{"codigo":25772,"municipio":"SUESCA"}
+{"codigo":25777,"municipio":"SUPATÁ"}
+{"codigo":25779,"municipio":"SUSA"}
+{"codigo":25781,"municipio":"SUTATAUSA"}
+{"codigo":25785,"municipio":"TABIO"}
+{"codigo":25793,"municipio":"TAUSA"}
+{"codigo":25797,"municipio":"TENA"}
+{"codigo":25799,"municipio":"TENJO"}
+{"codigo":25805,"municipio":"TIBACUY"}
+{"codigo":25807,"municipio":"TIBIRITA"}
+{"codigo":25815,"municipio":"TOCAIMA"}
+{"codigo":25817,"municipio":"TOCANCIPÁ"}
+{"codigo":25823,"municipio":"TOPAIPI"}
+{"codigo":25839,"municipio":"UBALÁ"}
+{"codigo":25841,"municipio":"UBAQUE"}
+{"codigo":25843,"municipio":"UBATE"}
+{"codigo":25845,"municipio":"UNE"}
+{"codigo":25851,"municipio":"ÚTICA"}
+{"codigo":25862,"municipio":"VERGARA"}
+{"codigo":25867,"municipio":"VIANÍ"}
+{"codigo":25871,"municipio":"VILLAGOMEZ"}
+{"codigo":25873,"municipio":"VILLAPINZÓN"}
+{"codigo":25875,"municipio":"VILLETA"}
+{"codigo":25878,"municipio":"VIOTÁ"}
+{"codigo":25885,"municipio":"YACOPÍ"}
+{"codigo":25898,"municipio":"ZIPACoN"}
+{"codigo":25899,"municipio":"ZIPAQUIRÁ"}
+{"codigo":27001,"municipio":"QUIBDÓ"}
+{"codigo":27006,"municipio":"ACANDÍ"}
+{"codigo":27025,"municipio":"ALTO BAUDÓ"}
+{"codigo":27050,"municipio":"ATRATO"}
+{"codigo":27073,"municipio":"BAGADÓ"}
+{"codigo":27075,"municipio":"BAHÍA SOLANO"}
+{"codigo":27077,"municipio":"BAJO BAUDÓ"}
+{"codigo":27086,"municipio":"BELÉN DE BAJIRA"}
+{"codigo":27099,"municipio":"BOJAYA"}
+{"codigo":27135,"municipio":"CANTON DE SAN PABLO"}
+{"codigo":27150,"municipio":"CARMÉN DEL DARIÉN"}
+{"codigo":27160,"municipio":"CERTEGUI"}
+{"codigo":27205,"municipio":"CONDOTO"}
+{"codigo":27245,"municipio":"EL CARMEN DE ATRATO"}
+{"codigo":27250,"municipio":"El Litoral del San Juan"}
+{"codigo":27361,"municipio":"ITSMINA"}
+{"codigo":27372,"municipio":"JURADÓ"}
+{"codigo":27413,"municipio":"LLORÓ"}
+{"codigo":27425,"municipio":"MEDIO ATRATO"}
+{"codigo":27430,"municipio":"MEDIO BAUDÓ"}
+{"codigo":27450,"municipio":"MEDIO SAN JUAN"}
+{"codigo":27491,"municipio":"NÓVITA"}
+{"codigo":27495,"municipio":"NUQUÍ"}
+{"codigo":27580,"municipio":"RÍO FRÍO"}
+{"codigo":27600,"municipio":"RIO QUITO"}
+{"codigo":27615,"municipio":"RIOSUCIO"}
+{"codigo":27660,"municipio":"SAN JOSÉ DEL PALMAR"}
+{"codigo":27745,"municipio":"SIPÍ"}
+{"codigo":27787,"municipio":"TADÓ"}
+{"codigo":27800,"municipio":"UNGUÍA"}
+{"codigo":27810,"municipio":"UNION PANAMERICANA"}
+{"codigo":41001,"municipio":"NEIVA"}
+{"codigo":41006,"municipio":"ACEVEDO"}
+{"codigo":41013,"municipio":"AGRADO"}
+{"codigo":41016,"municipio":"AIPE"}
+{"codigo":41020,"municipio":"ALGECIRAS"}
+{"codigo":41026,"municipio":"ALTAMIRA"}
+{"codigo":41078,"municipio":"BARAYA"}
+{"codigo":41132,"municipio":"CAMPOALEGRE"}
+{"codigo":41206,"municipio":"COLOMBIA"}
+{"codigo":41244,"municipio":"ELÍAS"}
+{"codigo":41298,"municipio":"GARZÓN"}
+{"codigo":41306,"municipio":"GIGANTE"}
+{"codigo":41319,"municipio":"GUADALUPE"}
+{"codigo":41349,"municipio":"HOBO"}
+{"codigo":41357,"municipio":"IQUIRA"}
+{"codigo":41359,"municipio":"ISNOS"}
+{"codigo":41378,"municipio":"LA ARGENTINA"}
+{"codigo":41396,"municipio":"LA PLATA"}
+{"codigo":41483,"municipio":"NÁTAGA"}
+{"codigo":41503,"municipio":"OPORAPA"}
+{"codigo":41518,"municipio":"PAICOL"}
+{"codigo":41524,"municipio":"PALERMO"}
+{"codigo":41530,"municipio":"PALESTINA"}
+{"codigo":41548,"municipio":"PITAL"}
+{"codigo":41551,"municipio":"PITALITO"}
+{"codigo":41615,"municipio":"RIVERA"}
+{"codigo":41660,"municipio":"SALADOBLANCO"}
+{"codigo":41668,"municipio":"SAN AGUSTÍN"}
+{"codigo":41676,"municipio":"SANTA MARÍA"}
+{"codigo":41770,"municipio":"SUAZA"}
+{"codigo":41791,"municipio":"TARQUI"}
+{"codigo":41797,"municipio":"TESALIA"}
+{"codigo":41799,"municipio":"TELLO"}
+{"codigo":41801,"municipio":"TERUEL"}
+{"codigo":41807,"municipio":"TIMANÁ"}
+{"codigo":41872,"municipio":"VILLAVIEJA"}
+{"codigo":41885,"municipio":"YAGUARÁ"}
+{"codigo":44001,"municipio":"RIOHACHA"}
+{"codigo":44035,"municipio":"ALBANIA"}
+{"codigo":44078,"municipio":"BARRANCAS"}
+{"codigo":44090,"municipio":"DIBULLA"}
+{"codigo":44098,"municipio":"DISTRACCION"}
+{"codigo":44110,"municipio":"EL MOLINO"}
+{"codigo":44279,"municipio":"FONSECA"}
+{"codigo":44378,"municipio":"HATONUEVO"}
+{"codigo":44420,"municipio":"LA JAGUA DEL PILAR"}
+{"codigo":44430,"municipio":"MAICAO"}
+{"codigo":44560,"municipio":"MANAURE"}
+{"codigo":44650,"municipio":"SAN JUAN DEL CESAR"}
+{"codigo":44847,"municipio":"URIBIA"}
+{"codigo":44855,"municipio":"URUMITA"}
+{"codigo":44874,"municipio":"VILLANUEVA"}
+{"codigo":47001,"municipio":"SANTA MARTA"}
+{"codigo":47030,"municipio":"ALGARROBO"}
+{"codigo":47053,"municipio":"ARACATACA"}
+{"codigo":47058,"municipio":"ARIGUANÍ"}
+{"codigo":47161,"municipio":"CERRO SAN ANTONIO"}
+{"codigo":47170,"municipio":"CHIBOLO"}
+{"codigo":47189,"municipio":"CIÉNAGA"}
+{"codigo":47205,"municipio":"CONCORDIA"}
+{"codigo":47245,"municipio":"EL BANCO"}
+{"codigo":47258,"municipio":"EL PIÑON"}
+{"codigo":47268,"municipio":"EL RETEN"}
+{"codigo":47288,"municipio":"FUNDACION"}
+{"codigo":47318,"municipio":"GUAMAL"}
+{"codigo":47460,"municipio":"NUEVA GRANADA"}
+{"codigo":47541,"municipio":"PEDRAZA"}
+{"codigo":47545,"municipio":"PIJIÑO DEL CARMEN"}
+{"codigo":47551,"municipio":"PIVIJAY"}
+{"codigo":47555,"municipio":"PLATO"}
+{"codigo":47570,"municipio":"PUEBLO VIEJO"}
+{"codigo":47605,"municipio":"REMOLINO"}
+{"codigo":47660,"municipio":"SABANAS DE SAN ANGEL"}
+{"codigo":47675,"municipio":"SALAMINA"}
+{"codigo":47692,"municipio":"SAN SEBASTIAN DE BUENAVISTA"}
+{"codigo":47703,"municipio":"SAN ZENON"}
+{"codigo":47707,"municipio":"SANTA ANA"}
+{"codigo":47720,"municipio":"SANTA BARBARA DE PINTO"}
+{"codigo":47745,"municipio":"SITIONUEVO"}
+{"codigo":47798,"municipio":"TENERIFE"}
+{"codigo":47960,"municipio":"ZAPAYAN"}
+{"codigo":47980,"municipio":"ZONA BANANERA"}
+{"codigo":50450,"municipio":"PUERTO CONCORDIA"}
+{"codigo":50568,"municipio":"PUERTO GAITÁN"}
+{"codigo":50573,"municipio":"PUERTO LoPEZ"}
+{"codigo":50577,"municipio":"PUERTO LLERAS"}
+{"codigo":50590,"municipio":"PUERTO RICO"}
+{"codigo":50606,"municipio":"RESTREPO"}
+{"codigo":50680,"municipio":"SAN CARLOS GUAROA"}
+{"codigo":50683,"municipio":"SAN JUAN DE ARAMA"}
+{"codigo":50686,"municipio":"SAN JUANITO"}
+{"codigo":50689,"municipio":"SAN MARTÍN"}
+{"codigo":50711,"municipio":"VISTA HERMOSA"}
+{"codigo":52001,"municipio":"PASTO"}
+{"codigo":52019,"municipio":"ALBAN"}
+{"codigo":52022,"municipio":"ALDANA"}
+{"codigo":52036,"municipio":"ANCUYA"}
+{"codigo":52051,"municipio":"ARBOLEDA"}
+{"codigo":52079,"municipio":"BARBACOAS"}
+{"codigo":52083,"municipio":"BELEN"}
+{"codigo":52110,"municipio":"BUESACO"}
+{"codigo":52203,"municipio":"COLON"}
+{"codigo":52207,"municipio":"CONSACA"}
+{"codigo":52210,"municipio":"CONTADERO"}
+{"codigo":52215,"municipio":"CÓRDOBA"}
+{"codigo":52224,"municipio":"CUASPUD"}
+{"codigo":52227,"municipio":"CUMBAL"}
+{"codigo":52233,"municipio":"CUMBITARA"}
+{"codigo":52240,"municipio":"CHACHAGUI"}
+{"codigo":52250,"municipio":"EL CHARCO"}
+{"codigo":52254,"municipio":"EL PEÑOL"}
+{"codigo":52256,"municipio":"EL ROSARIO"}
+{"codigo":52258,"municipio":"El Tablon de Gomez"}
+{"codigo":52260,"municipio":"EL TAMBO"}
+{"codigo":52287,"municipio":"FUNES"}
+{"codigo":52317,"municipio":"GUACHUCAL"}
+{"codigo":52320,"municipio":"GUAITARILLA"}
+{"codigo":52323,"municipio":"GUALMATAN"}
+{"codigo":52352,"municipio":"ILES"}
+{"codigo":52354,"municipio":"IMUES"}
+{"codigo":52356,"municipio":"IPIALES"}
+{"codigo":52378,"municipio":"LA CRUZ"}
+{"codigo":52381,"municipio":"LA FLORIDA"}
+{"codigo":52385,"municipio":"LA LLANADA"}
+{"codigo":52390,"municipio":"LA TOLA"}
+{"codigo":52399,"municipio":"LA UNION"}
+{"codigo":52405,"municipio":"LEIVA"}
+{"codigo":52411,"municipio":"LINARES"}
+{"codigo":52418,"municipio":"LOS ANDES"}
+{"codigo":52427,"municipio":"Magui"}
+{"codigo":52435,"municipio":"MALLAMA"}
+{"codigo":52473,"municipio":"MOSQUERA"}
+{"codigo":52480,"municipio":"NARIÑO"}
+{"codigo":52490,"municipio":"OLAYA HERRERA"}
+{"codigo":52506,"municipio":"OSPINA"}
+{"codigo":52520,"municipio":"FRANCISCO PIZARRO"}
+{"codigo":52540,"municipio":"POLICARPA"}
+{"codigo":52560,"municipio":"POTOSÍ"}
+{"codigo":52565,"municipio":"PROVIDENCIA"}
+{"codigo":52573,"municipio":"PUERRES"}
+{"codigo":52585,"municipio":"PUPIALES"}
+{"codigo":52612,"municipio":"RICAURTE"}
+{"codigo":52621,"municipio":"ROBERTO PAYAN"}
+{"codigo":52678,"municipio":"SAMANIEGO"}
+{"codigo":52683,"municipio":"SANDONÁ"}
+{"codigo":52685,"municipio":"SAN BERNARDO"}
+{"codigo":52687,"municipio":"SAN LORENZO"}
+{"codigo":52693,"municipio":"SAN PABLO"}
+{"codigo":52694,"municipio":"SAN PEDRO DE CARTAGO"}
+{"codigo":52696,"municipio":"SANTA BaRBARA"}
+{"codigo":52699,"municipio":"SANTA CRUZ"}
+{"codigo":52720,"municipio":"SAPUYES"}
+{"codigo":52786,"municipio":"TAMINANGO"}
+{"codigo":52788,"municipio":"TANGUA"}
+{"codigo":52835,"municipio":"TUMACO"}
+{"codigo":52838,"municipio":"TUQUERRES"}
+{"codigo":52885,"municipio":"YACUANQUER"}
+{"codigo":54001,"municipio":"CÚCUTA"}
+{"codigo":54003,"municipio":"ABREGO"}
+{"codigo":54051,"municipio":"ARBOLEDAS"}
+{"codigo":54099,"municipio":"BOCHALEMA"}
+{"codigo":54109,"municipio":"BUCARASICA"}
+{"codigo":54125,"municipio":"CÁCOTA"}
+{"codigo":54128,"municipio":"CACHIRÁ"}
+{"codigo":54172,"municipio":"CHINÁCOTA"}
+{"codigo":54174,"municipio":"CHITAGÁ"}
+{"codigo":54206,"municipio":"CONVENCIÓN"}
+{"codigo":54223,"municipio":"CUCUTILLA"}
+{"codigo":54239,"municipio":"DURANIA"}
+{"codigo":54245,"municipio":"EL CARMEN"}
+{"codigo":54250,"municipio":"EL TARRA"}
+{"codigo":54261,"municipio":"EL ZULIA"}
+{"codigo":54313,"municipio":"GRAMALOTE"}
+{"codigo":54344,"municipio":"HACARÍ"}
+{"codigo":54347,"municipio":"HERRÁN"}
+{"codigo":54377,"municipio":"LABATECA"}
+{"codigo":54385,"municipio":"LA ESPERANZA"}
+{"codigo":54398,"municipio":"LA PLAYA"}
+{"codigo":54405,"municipio":"LOS PATIOS"}
+{"codigo":54418,"municipio":"LOURDES"}
+{"codigo":54480,"municipio":"MUTISCUA"}
+{"codigo":54498,"municipio":"OCAÑA"}
+{"codigo":54518,"municipio":"PAMPLONA"}
+{"codigo":54520,"municipio":"PAMPLONITA"}
+{"codigo":54553,"municipio":"PUERTO SANTANDER"}
+{"codigo":54599,"municipio":"RAGONVALIA"}
+{"codigo":54660,"municipio":"SALAZAR"}
+{"codigo":54670,"municipio":"SAN CALIXTO"}
+{"codigo":54673,"municipio":"SAN CAYETANO"}
+{"codigo":54680,"municipio":"SANTIAGO"}
+{"codigo":54720,"municipio":"SARDINATA"}
+{"codigo":54743,"municipio":"SILOS"}
+{"codigo":54800,"municipio":"TEORAMA"}
+{"codigo":54810,"municipio":"TIBÚ"}
+{"codigo":54820,"municipio":"TOLEDO"}
+{"codigo":54871,"municipio":"VILLA CARO"}
+{"codigo":54874,"municipio":"VILLA DEL ROSARIO"}
+{"codigo":63001,"municipio":"ARMENIA"}
+{"codigo":63111,"municipio":"BUENAVISTA"}
+{"codigo":63130,"municipio":"CALARCA"}
+{"codigo":63190,"municipio":"CIRCASIA"}
+{"codigo":63212,"municipio":"CoRDOBA"}
+{"codigo":63272,"municipio":"FILANDIA"}
+{"codigo":63302,"municipio":"GeNOVA"}
+{"codigo":63401,"municipio":"LA TEBAIDA"}
+{"codigo":63470,"municipio":"Montengro"}
+{"codigo":63548,"municipio":"PIJAO"}
+{"codigo":63594,"municipio":"QUIMBAYA"}
+{"codigo":63690,"municipio":"SALENTO"}
+{"codigo":66001,"municipio":"PEREIRA"}
+{"codigo":66045,"municipio":"APÍA"}
+{"codigo":66075,"municipio":"BALBOA"}
+{"codigo":66088,"municipio":"BELÉN DE UMBRÍA"}
+{"codigo":66170,"municipio":"DOSQUEBRADAS"}
+{"codigo":66318,"municipio":"GUÁTICA"}
+{"codigo":66383,"municipio":"LA CELIA"}
+{"codigo":66400,"municipio":"LA VIRGINIA"}
+{"codigo":66440,"municipio":"MARSELLA"}
+{"codigo":66456,"municipio":"MISTRATÓ"}
+{"codigo":66572,"municipio":"PUEBLO RICO"}
+{"codigo":66594,"municipio":"QUINCHiA"}
+{"codigo":66682,"municipio":"SANTA ROSA DE CABAL"}
+{"codigo":66687,"municipio":"SANTUARIO"}
+{"codigo":68001,"municipio":"BUCARAMANGA"}
+{"codigo":68013,"municipio":"AGUADA"}
+{"codigo":68020,"municipio":"ALBANIA"}
+{"codigo":68051,"municipio":"ARATOCA"}
+{"codigo":68077,"municipio":"BARBOSA"}
+{"codigo":68079,"municipio":"BARICHARA"}
+{"codigo":68081,"municipio":"BARRANCABERMEJA"}
+{"codigo":68092,"municipio":"BETULIA"}
+{"codigo":68101,"municipio":"BOLÍVAR"}
+{"codigo":68121,"municipio":"CABRERA"}
+{"codigo":68132,"municipio":"CALIFORNIA"}
+{"codigo":68147,"municipio":"CAPITANEJO"}
+{"codigo":68152,"municipio":"CARCASÍ"}
+{"codigo":68160,"municipio":"CEPITÁ"}
+{"codigo":68162,"municipio":"CERRITO"}
+{"codigo":68167,"municipio":"CHARALÁ"}
+{"codigo":68169,"municipio":"CHARTA"}
+{"codigo":68176,"municipio":"CHIMA"}
+{"codigo":68179,"municipio":"CHIPATÁ"}
+{"codigo":68190,"municipio":"CIMITARRA"}
+{"codigo":68207,"municipio":"CONCEPCIÓN"}
+{"codigo":68209,"municipio":"CONFINES"}
+{"codigo":68211,"municipio":"CONTRATACIÓN"}
+{"codigo":68217,"municipio":"COROMORO"}
+{"codigo":68229,"municipio":"CURITÍ"}
+{"codigo":68235,"municipio":"EL CARMEN DE CHUCURÍ"}
+{"codigo":68245,"municipio":"EL GUACAMAYO"}
+{"codigo":68250,"municipio":"EL PEÑÓN"}
+{"codigo":68255,"municipio":"EL PLAYÓN"}
+{"codigo":68264,"municipio":"ENCINO"}
+{"codigo":68266,"municipio":"ENCISO"}
+{"codigo":68271,"municipio":"FLORIÁN"}
+{"codigo":68276,"municipio":"FLORIDABLANCA"}
+{"codigo":68296,"municipio":"GALÁN"}
+{"codigo":68298,"municipio":"GAMBITA"}
+{"codigo":68307,"municipio":"GIRÓN"}
+{"codigo":68318,"municipio":"GUACA"}
+{"codigo":68320,"municipio":"GUADALUPE"}
+{"codigo":68322,"municipio":"GUAPOTÁ"}
+{"codigo":68324,"municipio":"GUAVATÁ"}
+{"codigo":68327,"municipio":"GuEPSA"}
+{"codigo":68344,"municipio":"HATO"}
+{"codigo":68368,"municipio":"JESÚS MARÍA"}
+{"codigo":68370,"municipio":"JORDÁN"}
+{"codigo":68377,"municipio":"LA BELLEZA"}
+{"codigo":68385,"municipio":"LANDÁZURI"}
+{"codigo":68397,"municipio":"LA PAZ"}
+{"codigo":68406,"municipio":"LEBRÍJA"}
+{"codigo":68418,"municipio":"LOS SANTOS"}
+{"codigo":68425,"municipio":"MACARAVITA"}
+{"codigo":68432,"municipio":"MÁLAGA"}
+{"codigo":68444,"municipio":"MATANZA"}
+{"codigo":68464,"municipio":"MOGOTES"}
+{"codigo":68468,"municipio":"MOLAGAVITA"}
+{"codigo":68498,"municipio":"OCAMONTE"}
+{"codigo":68500,"municipio":"OIBA"}
+{"codigo":68502,"municipio":"ONZAGA"}
+{"codigo":68522,"municipio":"PALMAR"}
+{"codigo":68524,"municipio":"PALMAS DEL SOCORRO"}
+{"codigo":68533,"municipio":"PÁRAMO"}
+{"codigo":68547,"municipio":"PIEDECUESTA"}
+{"codigo":68549,"municipio":"PINCHOTE"}
+{"codigo":68572,"municipio":"PUENTE NACIONAL"}
+{"codigo":68573,"municipio":"PUERTO PARRA"}
+{"codigo":68575,"municipio":"PUERTO WILCHES"}
+{"codigo":68615,"municipio":"RIONEGRO"}
+{"codigo":68655,"municipio":"SABANA DE TORRES"}
+{"codigo":68669,"municipio":"SAN ANDRÉS"}
+{"codigo":68673,"municipio":"SAN BENITO"}
+{"codigo":68679,"municipio":"SAN GIL"}
+{"codigo":68682,"municipio":"SAN JOAQUÍN"}
+{"codigo":68684,"municipio":"SAN JOSÉ DE MIRANDA"}
+{"codigo":68686,"municipio":"SAN MIGUEL"}
+{"codigo":68689,"municipio":"SAN VICENTE DE CHUCURÍ"}
+{"codigo":68705,"municipio":"SANTA BÁRBARA"}
+{"codigo":68720,"municipio":"SANTA HELENA DEL OPÓN"}
+{"codigo":68745,"municipio":"SIMACOTA"}
+{"codigo":68755,"municipio":"SOCORRO"}
+{"codigo":68770,"municipio":"SUAITA"}
+{"codigo":68773,"municipio":"SUCRE"}
+{"codigo":68780,"municipio":"SURATA"}
+{"codigo":68820,"municipio":"TONA"}
+{"codigo":68855,"municipio":"VALLE DE SAN JOSÉ"}
+{"codigo":68861,"municipio":"VÉLEZ"}
+{"codigo":68867,"municipio":"VETAS"}
+{"codigo":68872,"municipio":"VILLANUEVA"}
+{"codigo":68895,"municipio":"ZAPATOCA"}
+{"codigo":70001,"municipio":"SINCELEJO"}
+{"codigo":70110,"municipio":"BUENAVISTA"}
+{"codigo":70124,"municipio":"CAIMITO"}
+{"codigo":70204,"municipio":"COLOSO"}
+{"codigo":70215,"municipio":"COROZAL"}
+{"codigo":70221,"municipio":"COVEÑAS"}
+{"codigo":70230,"municipio":"CHALÁN"}
+{"codigo":70233,"municipio":"EL ROBLE"}
+{"codigo":70235,"municipio":"GALERAS"}
+{"codigo":70265,"municipio":"GUARANDA"}
+{"codigo":70400,"municipio":"LA UNIÓN"}
+{"codigo":70418,"municipio":"LOS PALMITOS"}
+{"codigo":70429,"municipio":"MAJAGUAL"}
+{"codigo":70473,"municipio":"MORROA"}
+{"codigo":70508,"municipio":"OVEJAS"}
+{"codigo":70523,"municipio":"PALMITO"}
+{"codigo":70670,"municipio":"SAMPUÉS"}
+{"codigo":70678,"municipio":"SAN BENITO ABAD"}
+{"codigo":70702,"municipio":"SAN JUAN BETULIA"}
+{"codigo":70708,"municipio":"SAN MARCOS"}
+{"codigo":70713,"municipio":"SAN ONOFRE"}
+{"codigo":70717,"municipio":"SAN PEDRO"}
+{"codigo":70742,"municipio":"SINCÉ"}
+{"codigo":70771,"municipio":"SUCRE"}
+{"codigo":70820,"municipio":"SANTIAGO DE TOLÚ"}
+{"codigo":70823,"municipio":"TOLÚ VIEJO"}
+{"codigo":73001,"municipio":"IBAGUe"}
+{"codigo":73024,"municipio":"ALPUJARRA"}
+{"codigo":73026,"municipio":"ALVARADO"}
+{"codigo":73030,"municipio":"AMBALEMA"}
+{"codigo":73043,"municipio":"ANZOÁTEGUI"}
+{"codigo":73055,"municipio":"ARMERO"}
+{"codigo":73067,"municipio":"ATACO"}
+{"codigo":73124,"municipio":"CAJAMARCA"}
+{"codigo":73148,"municipio":"CARMEN DE APICALÁ"}
+{"codigo":73152,"municipio":"CASABIANCA"}
+{"codigo":73168,"municipio":"CHAPARRAL"}
+{"codigo":73200,"municipio":"COELLO"}
+{"codigo":73217,"municipio":"COYAIMA"}
+{"codigo":73226,"municipio":"CUNDAY"}
+{"codigo":73236,"municipio":"DOLORES"}
+{"codigo":73268,"municipio":"ESPINAL"}
+{"codigo":73270,"municipio":"FALAN"}
+{"codigo":73275,"municipio":"FLANDES"}
+{"codigo":73283,"municipio":"FRESNO"}
+{"codigo":73319,"municipio":"GUAMO"}
+{"codigo":73347,"municipio":"HERVEO"}
+{"codigo":73349,"municipio":"HONDA"}
+{"codigo":73352,"municipio":"ICONONZO"}
+{"codigo":73408,"municipio":"LeRIDA"}
+{"codigo":73411,"municipio":"LiBANO"}
+{"codigo":73443,"municipio":"MARIQUITA"}
+{"codigo":73449,"municipio":"MELGAR"}
+{"codigo":73461,"municipio":"MURILLO"}
+{"codigo":73483,"municipio":"NATAGAIMA"}
+{"codigo":73504,"municipio":"ORTEGA"}
+{"codigo":73520,"municipio":"PALOCABILDO"}
+{"codigo":73547,"municipio":"PIEDRAS"}
+{"codigo":73555,"municipio":"PLANADAS"}
+{"codigo":73563,"municipio":"PRADO"}
+{"codigo":73585,"municipio":"PURIFICACIÓN"}
+{"codigo":73616,"municipio":"RIOBLANCO"}
+{"codigo":73622,"municipio":"RONCESVALLES"}
+{"codigo":73624,"municipio":"ROVIRA"}
+{"codigo":73671,"municipio":"SALDAÑA"}
+{"codigo":73675,"municipio":"SAN ANTONIO"}
+{"codigo":73678,"municipio":"SAN LUIS"}
+{"codigo":73686,"municipio":"SANTA ISABEL"}
+{"codigo":73770,"municipio":"SUÁREZ"}
+{"codigo":73854,"municipio":"VALLE DE SAN JUAN"}
+{"codigo":73861,"municipio":"VENADILLO"}
+{"codigo":73870,"municipio":"VILLAHERMOSA"}
+{"codigo":73873,"municipio":"VILLARRICA"}
+{"codigo":76001,"municipio":"CALI"}
+{"codigo":76020,"municipio":"ALCALa"}
+{"codigo":76036,"municipio":"ANDALUCÍA"}
+{"codigo":76041,"municipio":"ANSERMANUEVO"}
+{"codigo":76054,"municipio":"ARGELIA"}
+{"codigo":76100,"municipio":"BOLÍVAR"}
+{"codigo":76109,"municipio":"BUENAVENTURA"}
+{"codigo":76111,"municipio":"BUGA"}
+{"codigo":76113,"municipio":"BUGALAGRANDE"}
+{"codigo":76122,"municipio":"CAICEDONIA"}
+{"codigo":76126,"municipio":"CALIMA"}
+{"codigo":76130,"municipio":"CANDELARIA"}
+{"codigo":76147,"municipio":"CARTAGO"}
+{"codigo":76233,"municipio":"DAGUA"}
+{"codigo":76243,"municipio":"EL ÁGUILA"}
+{"codigo":76246,"municipio":"EL CAIRO"}
+{"codigo":76248,"municipio":"EL CERRITO"}
+{"codigo":76250,"municipio":"EL DOVIO"}
+{"codigo":76275,"municipio":"FLORIDA"}
+{"codigo":76306,"municipio":"GINEBRA"}
+{"codigo":76318,"municipio":"GUACARÍ"}
+{"codigo":76364,"municipio":"JAMUNDÍ"}
+{"codigo":76377,"municipio":"LA CUMBRE"}
+{"codigo":76400,"municipio":"LA UNIÓN"}
+{"codigo":76403,"municipio":"LA VICTORIA"}
+{"codigo":76497,"municipio":"OBANDO"}
+{"codigo":76520,"municipio":"PALMIRA"}
+{"codigo":76563,"municipio":"PRADERA"}
+{"codigo":76606,"municipio":"RESTREPO"}
+{"codigo":76616,"municipio":"RIOFRIO"}
+{"codigo":76622,"municipio":"ROLDANILLO"}
+{"codigo":76670,"municipio":"SAN PEDRO"}
+{"codigo":76736,"municipio":"SEVILLA"}
+{"codigo":76823,"municipio":"TORO"}
+{"codigo":76828,"municipio":"TRUJILLO"}
+{"codigo":76834,"municipio":"TULUÁ"}
+{"codigo":76845,"municipio":"ULLOA"}
+{"codigo":76863,"municipio":"VERSALLES"}
+{"codigo":76869,"municipio":"VIJES"}
+{"codigo":76890,"municipio":"YOTOCO"}
+{"codigo":76892,"municipio":"YUMBO"}
+{"codigo":76895,"municipio":"ZARZAL"}
+{"codigo":81001,"municipio":"ARAUCA"}
+{"codigo":81065,"municipio":"ARAUQUITA"}
+{"codigo":81220,"municipio":"CRAVO NORTE"}
+{"codigo":81300,"municipio":"FORTUL"}
+{"codigo":81591,"municipio":"PUERTO RONDÓN"}
+{"codigo":81736,"municipio":"SARAVENA"}
+{"codigo":81794,"municipio":"TAME"}
+{"codigo":85001,"municipio":"YOPAL"}
+{"codigo":85010,"municipio":"AGUAZUL"}
+{"codigo":85015,"municipio":"CHAMEZA"}
+{"codigo":85125,"municipio":"HATO COROZAL"}
+{"codigo":85136,"municipio":"LA SALINA"}
+{"codigo":85139,"municipio":"MANÍ"}
+{"codigo":85162,"municipio":"MONTERREY"}
+{"codigo":85225,"municipio":"NUNCHÍA"}
+{"codigo":85230,"municipio":"OROCUÉ"}
+{"codigo":85250,"municipio":"PAZ DE ARIPORO"}
+{"codigo":85263,"municipio":"PORE"}
+{"codigo":85279,"municipio":"RECETOR"}
+{"codigo":85300,"municipio":"SABANALARGA"}
+{"codigo":85315,"municipio":"SÁCAMA"}
+{"codigo":85325,"municipio":"SAN LUIS DE PALENQUE"}
+{"codigo":85400,"municipio":"TÁMARA"}
+{"codigo":85410,"municipio":"TAURAMENA"}
+{"codigo":85430,"municipio":"TRINIDAD"}
+{"codigo":85440,"municipio":"VILLANUEVA"}
+{"codigo":86001,"municipio":"MOCOA"}
+{"codigo":86219,"municipio":"COLÓN"}
+{"codigo":86320,"municipio":"ORITO"}
+{"codigo":86568,"municipio":"PUERTO ASIS"}
+{"codigo":86569,"municipio":"PUERTO CAICEDO"}
+{"codigo":86571,"municipio":"PUERTO GUZMAN"}
+{"codigo":86573,"municipio":"PUERTO LEGUIZAMO"}
+{"codigo":86749,"municipio":"SIBUNDOY"}
+{"codigo":86755,"municipio":"SAN FRANCISCO"}
+{"codigo":86757,"municipio":"SAN MIGUEL"}
+{"codigo":86760,"municipio":"SANTIAGO"}
+{"codigo":86865,"municipio":"VALLE DEL GUAMUEZ"}
+{"codigo":86885,"municipio":"VILLA GARZON"}
+{"codigo":88001,"municipio":"SAN ANDReS"}
+{"codigo":88564,"municipio":"PROVIDENCIA Y SANTA CATALINA"}
+{"codigo":91001,"municipio":"LETICIA"}
+{"codigo":91405,"municipio":"LA CHORRERA"}
+{"codigo":91407,"municipio":"LA PEDRERA"}
+{"codigo":91460,"municipio":"MIRITI - PARANÁ"}
+{"codigo":91530,"municipio":"PUERTO ALEGRIA"}
+{"codigo":91536,"municipio":"PUERTO ARICA"}
+{"codigo":91540,"municipio":"PUERTO NARIÑO"}
+{"codigo":91669,"municipio":"PUERTO SANTANDER"}
+{"codigo":91798,"municipio":"TARAPACÁ"}
+{"codigo":94001,"municipio":"INÍRIDA"}
+{"codigo":94343,"municipio":"BARRANCO MINA"}
+{"codigo":94663,"municipio":"MAPIRIPaN"}
+{"codigo":94883,"municipio":"SAN FELIPE"}
+{"codigo":94884,"municipio":"PUERTO COLOMBIA"}
+{"codigo":94885,"municipio":"LA GUADALUPE"}
+{"codigo":94886,"municipio":"CACAHUAL"}
+{"codigo":94887,"municipio":"PANA PANA"}
+{"codigo":94888,"municipio":"MORICHAL"}
+{"codigo":95001,"municipio":"SAN JOSÉ DEL GUAVIARE"}
+{"codigo":95015,"municipio":"CALAMAR"}
+{"codigo":95025,"municipio":"EL RETORNO"}
+{"codigo":95200,"municipio":"MIRAFLORES"}
+{"codigo":97001,"municipio":"MITÚ"}
+{"codigo":97161,"municipio":"CARURU"}
+{"codigo":97511,"municipio":"PACOA"}
+{"codigo":97666,"municipio":"TARAIRA"}
+{"codigo":97777,"municipio":"PAPUNAHUA"}
+{"codigo":97889,"municipio":"YAVARATÉ"}
+{"codigo":99001,"municipio":"PUERTO CARREÑO"}
+{"codigo":99524,"municipio":"LA PRIMAVERA"}
+{"codigo":99624,"municipio":"SANTA ROSALÍA"}
+{"codigo":99773,"municipio":"CUMARIBO"}
